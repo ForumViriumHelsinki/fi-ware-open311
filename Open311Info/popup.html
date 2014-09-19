@@ -1,0 +1,32 @@
+{{#coreOpen311.length}}
+<h2>Open311 attributes</h2>
+{{#coreOpen311}}
+<div class="ngsi-attribute">
+  <div class="ngsi-key">{{key}}</div>
+  <div class="ngsi-value">{{value}}</div>
+</div>
+{{/coreOpen311}}
+{{/coreOpen311.length}}
+
+{{#extendedOpen311.length}}
+<h2>Extended attributes</h2>
+{{#extendedOpen311}}
+<div class="ngsi-attribute">
+  <div class="ngsi-key">{{key}}</div>
+  <div class="ngsi-value">{{value}}</div>
+</div>
+{{/extendedOpen311}}
+{{/extendedOpen311.length}}
+
+{{#serviceObject.length}}
+<h2>Service Object Data</h2>
+{{#serviceObject}}
+<div class="ngsi-attribute">
+  <div class="ngsi-key">{{key}}</div>
+  <div class="ngsi-value">{{value}}</div>
+</div>
+{{/serviceObject}}
+{{/serviceObject.length}}
+{{^serviceObject}}
+<h2>No service object data available</h2>
+{{/serviceObject}}

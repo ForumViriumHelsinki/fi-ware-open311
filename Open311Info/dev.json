@@ -1,0 +1,105 @@
+{
+    "data": {
+        "address": "Sinebrychoffin puisto",
+        "description": "Koffin puiston yleisövessassa ei valot toimi.",
+        "detailed_status": "PROCESSED",
+        "id": "3jdivvlr35bfa9aorh7f",
+        "position": "24.9338877,60.1621196",
+        "requested_datetime": "2014-07-25T21:08:54+03:00",
+        "service_code": "174",
+        "service_name": "Parks",
+        "service_object_id": "10952",
+        "service_object_type": "http://www.hel.fi/servicemap/v2",
+        "service_request_id": "3jdivvlr35bfa9aorh7f",
+        "status": "closed",
+        "title": "Koffin puiston yleisövessas...",
+        "type": "Open311",
+        "updated_datetime": "2014-07-30T00:32:10+03:00"
+    },
+    "extraData": {
+        "accessibility_sentences": [
+            {
+                "sentence_en": "The route to the entrance is smooth and sufficiently wide and illuminated.",
+                "sentence_fi": "Kulkureitti sis\u00e4\u00e4nk\u00e4ynnille on tasainen ja riitt\u00e4v\u00e4n leve\u00e4 sek\u00e4 valaistu.",
+                "sentence_group_en": "The route to the main entrance",
+                "sentence_group_fi": "Reitti p\u00e4\u00e4sis\u00e4\u00e4nk\u00e4ynnille",
+                "sentence_group_name": "Kulkureitti p\u00e4\u00e4sis\u00e4\u00e4nk\u00e4ynnille",
+                "sentence_group_sv": "Rutten till huvuding\u00e5ngen",
+                "sentence_sv": "Rutten till ing\u00e5ngen \u00e4r j\u00e4mn och tillr\u00e4ckligt bred samt belyst."
+            },
+            {
+                "sentence_en": "The entrance is hard to perceive",
+                "sentence_fi": "Sis\u00e4\u00e4nk\u00e4ynti on vaikeasti hahmotettava.",
+                "sentence_group_en": "The main entrance",
+                "sentence_group_fi": "P\u00e4\u00e4sis\u00e4\u00e4nk\u00e4ynti",
+                "sentence_group_name": "P\u00e4\u00e4sis\u00e4\u00e4nk\u00e4ynti",
+                "sentence_group_sv": "Huvuding\u00e5ngen",
+                "sentence_sv": "Ing\u00e5ngen \u00e4r sv\u00e5r att \u00f6verblicka."
+            },
+            {
+                "sentence_en": "The doors connected to the entrance are hard to perceive. Outside the door there is sufficient room for moving e.g. with a wheelchair. The door is heavy or otherwise hard to open.",
+                "sentence_fi": "Sis\u00e4\u00e4nk\u00e4ynnin ovet ovat vaikeasti havaittavat. Oven ulkopuolella on riitt\u00e4v\u00e4sti vapaata tilaa liikkumiselle esim. py\u00f6r\u00e4tuolin kanssa. Ovi on raskas tai muuten vaikeasti avattavissa.",
+                "sentence_group_en": "The main entrance",
+                "sentence_group_fi": "P\u00e4\u00e4sis\u00e4\u00e4nk\u00e4ynti",
+                "sentence_group_name": "P\u00e4\u00e4sis\u00e4\u00e4nk\u00e4ynti",
+                "sentence_group_sv": "Huvuding\u00e5ngen",
+                "sentence_sv": "D\u00f6rrarna vid ing\u00e5ngen \u00e4r sv\u00e5ra att \u00f6verblicka. Utanf\u00f6r d\u00f6rren finns tillr\u00e4ckligt med fritt utrymme f\u00f6r att r\u00f6ra sig t.ex. med rullstol. D\u00f6rren \u00e4r tung eller annars sv\u00e5r att \u00f6ppna."
+            }
+        ],
+        "address_city_en": "Helsinki",
+        "address_city_fi": "Helsinki",
+        "address_city_sv": "Helsingfors",
+        "address_zip": "00120",
+        "citydistrict_id": 5,
+        "citydistrict_name": "punavuori",
+        "connections": [
+            {
+                "connection_type": "215",
+                "name_en": "Public transport to here",
+                "name_fi": "Joukkoliikenneyhteydet t\u00e4nne",
+                "name_sv": "Kollektivtrafik till platsen",
+                "www_en": "http://www.reittiopas.fi/en/?to_in=sinebrychoffin+puisto+,+helsinki",
+                "www_fi": "http://www.reittiopas.fi/fi/?to_in=sinebrychoffin+puisto+,+helsinki",
+                "www_sv": "http://www.reittiopas.fi/sv/?to_in=sinebrychoffin+puisto+,+helsinki"
+            },
+            {
+                "connection_type": "210",
+                "name_en": "General feedback to Public Works Department",
+                "name_fi": "Yleist\u00e4 palautetta Rakennusvirastolle",
+                "name_sv": "Allm\u00e4n respons till Byggnadskontoret",
+                "www_en": "http://www.hel.fi/hki/HKR/fi/Yhteystiedot+ja+palaute/Palautelomake",
+                "www_fi": "http://www.hel.fi/hki/HKR/fi/Yhteystiedot+ja+palaute/Palautelomake",
+                "www_sv": "http://www.hel.fi/hki/HKR/fi/Yhteystiedot+ja+palaute/Palautelomake"
+            }
+        ],
+        "data_source_url": "www.hel.fi",
+        "dept_id": "HKR",
+        "easting_etrs_gk25": 25496329,
+        "email": "rakennusvirasto@hel.fi",
+        "events": [],
+        "id": 10952,
+        "latitude": 60.16212,
+        "longitude": 24.933887,
+        "manual_coordinates": true,
+        "name_en": "Sinebrychoffinpuisto, public toilet",
+        "name_fi": "Sinebrychoffin puiston yleis\u00f6vessa",
+        "name_sv": "Sinebrychoffsparken, allm\u00e4n toalett",
+        "northing_etrs_gk25": 6672137,
+        "org_id": 91,
+        "org_owned": true,
+        "phone": "09 310 39000",
+        "provider_type": 101,
+        "service_ids": [
+            25402
+        ],
+        "sources": [],
+        "street_address_en": "Sinebrychoffin puisto",
+        "street_address_fi": "Sinebrychoffin puisto",
+        "street_address_sv": "Sinebrychoffsparken",
+        "subdistrict_id": 50,
+        "subdistrict_name": "punavuori",
+        "www_en": "http://www.hel.fi/hki/HKR/fi/Viraston+palvelut+A__/Yleis_vessat",
+        "www_fi": "http://www.hel.fi/hki/HKR/fi/Viraston+palvelut+A__/Yleis_vessat",
+        "www_sv": "http://www.hel.fi/hki/HKR/fi/Viraston+palvelut+A__/Yleis_vessat"
+    }
+}

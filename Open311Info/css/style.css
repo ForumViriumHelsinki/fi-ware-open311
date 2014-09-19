@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin-top: 1ex;
+}
+.ngsi-attribute {
+  clear:both;
+}
+.ngsi-key {
+  float: left;
+  padding-right:10px;
+  margin-left:3px;
+  color:#888888;
+}
+.ngsi-value {
+  margin-left:120px;
+  overflow-wrap: break-word;
+}
+
+.ngsi-major {
+  font-size: 125%;
+}
+.ngsi-minor {
+}

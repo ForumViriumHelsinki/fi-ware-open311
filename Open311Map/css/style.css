@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.ngsi-object {
+  margin: 3px;
+  padding: 3px;
+  border: 1px solid black;
+}
+
+.ngsi-major {
+  font-size: 125%;
+  overflow-wrap: break-word;
+}
+.ngsi-minor {
+  overflow-wrap: break-word;
+}
+
+.issue-image {
+  max-width: 500px; /* must be important, because of tile CSS */
+  max-height: 500px;
+}
+
+html,body,#map { height: 100%; }

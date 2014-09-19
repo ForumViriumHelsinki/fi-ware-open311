@@ -1,0 +1,12 @@
+{
+  "name": "fvproxy",
+  "description": "Forum Virium Dev CORS Propxy",
+  "version": "1.0.0",
+  "author": {
+    "name": "Juho Vuori"
+  },
+  "dependencies": {
+    "corsproxy": "^0.2.14",
+    "http-proxy": "^0.10.4"
+  }
+}

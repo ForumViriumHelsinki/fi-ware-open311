@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="FVMap" default="zip" basedir=".">
+	<property name="project-name" value="${ant.project.name}"  />
+	<property name="unzip-destination" value="unzipped"  />
+	<target name="clean">
+		<delete file="${project-name}.zip"/>
+		<delete dir="${unzip-destination}"/>
+	</target>
+	<target name="zip">
+		<zip destfile="${project-name}.zip">
+		<fileset dir="${basedir}" includes="**/*"/>
+		</zip>
+	</target>
+	<target name="unzip">
+		<unzip src="${project-name}.zip" dest="${unzip-destination}"/>
+	</target>
+</project>
