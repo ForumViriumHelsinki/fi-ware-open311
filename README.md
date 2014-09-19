@@ -49,10 +49,10 @@ To use the software in a production environment, the problems with Mashup Lab en
 License
 -------
 
-Software in this repository are licensed under (the MIT license)[LICENSE.md]
+Software in this repository are licensed under [the MIT license](LICENSE.md)
 
 Contact
 -------
 
 Forum Virium Helsinki
-[http://www.forumvirium.fi/]
+[http://www.forumvirium.fi/](http://www.forumvirium.fi/)
