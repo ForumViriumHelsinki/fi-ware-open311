@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 #
 # Part of Open311-NGSI integration tool
-# (c) 2014, Juho Vuori
+# Author: Juho Vuori (juho.vuori@codento.com)
+# Copyright: Forum Virium Helsinki
 #
 # http://www.forumvirium.fi/
 #

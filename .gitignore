@@ -1,0 +1,6 @@
+.Python
+.config.py.swp
+bin/
+config.pyc
+include/
+lib/

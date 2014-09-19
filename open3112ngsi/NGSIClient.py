@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 #
 # Part of Open311-NGSI integration tool
-# (c) 2014, Juho Vuori
+# Author: Juho Vuori (juho.vuori@codento.com)
+# Copyright: Forum Virium Helsinki
 #
 # http://www.forumvirium.fi/
 #
@@ -9,10 +10,7 @@
 import json
 import requests
 from lxml import etree
-
-#orionContextBrokerURL = "http://localhost:1234/"
-#orionContextBrokerURL = "http://130.206.82.148:1206/"
-orionContextBrokerURL = "http://130.206.82.148:1234/"
+from config import orionContextBrokerURL
 
 def makeOrionRequest(urlSuffix,data):
     url = orionContextBrokerURL + urlSuffix

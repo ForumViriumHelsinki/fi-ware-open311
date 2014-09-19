@@ -31,9 +31,11 @@ Installation
 ### open3112ngsi
 1. Copy open3112ngsi to a publicly accessible server.
 2. `cd open3112ngsi; virtualenv .; source bin/activate; pip install docopt lxml requests==1.1.0 three;`
-3. Configure Data source URLs. They are currently hardcoded in Open311Client.py and NGSIClient.py.
+3. Configure Data source URLs by editing config.py.
 4. Command that imports all data from a open311 server to your NGSI server is `python open3112ngsi.py all`. You must arrange
-   that to run nigtly throught cron or something similar.
+   that to run nigtly throught cron or something similar. Due to the way Open311 querying and paging work, there is no general
+   reliable way to query all data. Current implementation has been adapted to Helsinki city installation. You probably need to
+   change the code suit your configuration.
 
 
 ### CORS-enabled proxy
